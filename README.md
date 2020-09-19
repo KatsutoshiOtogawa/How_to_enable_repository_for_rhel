@@ -1,0 +1,2 @@
+# How_to_enable_repository_for_rhel
+rhel,oracle linuxでepelレポジトリを有効にするための設定です。
